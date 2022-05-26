@@ -2,7 +2,7 @@
 
 Goal of this ML project is to predict applicants who do not accept after being offered a place to study at various partner universities at the undergraduate level.
 
-This project <span style="color:red">uses real organizational data</span> and thus some parts have been excluded, such as EDA, checking data values, etc. Results such as Confustion Matrix shows percentages instead.
+This project *uses real organizational data* and thus some parts have been excluded, such as EDA, checking data values, etc. Results such as Confustion Matrix shows percentages instead.
 
 ## Results
 
