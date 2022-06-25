@@ -8,6 +8,6 @@ This project *uses real organizational data* and thus some parts have been exclu
 
 Several models were tested and tuned. The best model was a Random Forest with the following metrics:
 - AUC: 0.90
-- Accuracy: 0.90
-- Precision 0.86
-- Recall: 0.75
+- Accuracy: 0.927
+- Precision 0.968
+- Recall: 0.736
